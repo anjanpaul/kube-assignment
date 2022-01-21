@@ -1,7 +1,7 @@
 from flask import Flask,jsonify,request
 app = Flask(__name__)
 
-@app.route('/app1')
+@app.route('/')
 def hello_world():
     return 'Hello from app1'
 
