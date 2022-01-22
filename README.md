@@ -9,3 +9,10 @@
 
 # final outcome
 ![alt text](https://github.com/anjanpaul/Brainstation23-project/blob/main/output%20image/Screenshot%20from%202022-01-07%2016-08-13.png)
+
+# Project diagram
+![alt text](https://github.com/anjanpaul/Brainstation23-project/blob/main/output%20image/project%20drawing.png)
+
+# Cluster diagram
+![alt text](https://github.com/anjanpaul/Brainstation23-project/blob/main/output%20image/cluster.png)
+
